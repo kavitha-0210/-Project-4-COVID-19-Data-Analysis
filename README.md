@@ -4,13 +4,13 @@
 This project explores global COVID-19 trends using real-world datasets. The aim is to visualize how the pandemic evolved across countries and to understand patterns in confirmed, recovered, and death cases. The analysis highlights the differences in the impact of COVID-19 on various regions and shows how recovery and mortality rates changed over time.
 
  Key Insights
-1️ Rapid Initial Growth Followed by Gradual Stabilization
+1️. Rapid Initial Growth Followed by Gradual Stabilization
 
 Most countries experienced a steep exponential rise in confirmed cases during early waves.
 
 After government interventions (lockdowns, travel restrictions), the growth curve flattened gradually.
 
-2️ Recovery Rates Improved Over Time
+2️. Recovery Rates Improved Over Time
 
 Recovery counts increased steadily as:
 
@@ -22,13 +22,13 @@ Vaccinations rolled out
 
 Countries like India and Brazil showed large gaps initially between confirmed and recovered cases, which reduced later.
 
-3️ Mortality Trends Revealed Healthcare Pressure
+3️. Mortality Trends Revealed Healthcare Pressure
 
 Death curves show spikes during the peak outbreak periods, indicating overwhelmed hospitals.
 
 Countries with strained medical infrastructure saw higher death-to-confirmed ratios.
 
-4️ Country-wise Comparison Shows Varied Impact
+4️. Country-wise Comparison Shows Varied Impact
 
 The United States consistently recorded some of the highest case counts.
 
@@ -36,7 +36,7 @@ India and Brazil displayed sharp waves with sudden surges.
 
 European countries like Italy had early high mortality, revealing early struggles.
 
-5️ Correlation Analysis Shows Strong Relationships
+5️. Correlation Analysis Shows Strong Relationships
 
 Strong positive correlation between:
 
@@ -79,10 +79,3 @@ Useful for deciding which factors impact each other the most.
  Conclusion
 This project provides a clear, visual narrative of how COVID-19 evolved across different countries. By combining data cleaning, cumulative trend analysis, comparative visualizations, and correlation studies, the project delivers valuable insights into the global impact of the pandemic.
 
-Use these insights in:
-GitHub README
-Project report
-
-Presentation
-
-Portfolio
